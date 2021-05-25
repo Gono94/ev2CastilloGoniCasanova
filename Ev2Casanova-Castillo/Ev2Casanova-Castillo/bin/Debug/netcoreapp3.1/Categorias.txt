@@ -1,0 +1,4 @@
+1,Tierra,3,4
+2,Fuego,4,3
+3,Agua,2,1
+4,Aire,1,2

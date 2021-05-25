@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ev2Casanova-Castillo/1.0.0": {
+        "runtime": {
+          "Ev2Casanova-Castillo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ev2Casanova-Castillo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
